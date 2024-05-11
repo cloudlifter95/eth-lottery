@@ -1,3 +1,5 @@
+**/.DS_Store
+
 .env
 out/
 node_modules/
@@ -21,3 +23,4 @@ ignition/deployments/chain-31337
 
 # coverage
 coverage.json
+deployments/
