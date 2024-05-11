@@ -42,7 +42,7 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
-"@chainlink/contracts@^1.1.0":
+"@chainlink/contracts@1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@chainlink/contracts/-/contracts-1.1.0.tgz#7158db5771b9504d32d2235a5378ef56601a3e6c"
   integrity sha512-J+gDUCnEOJ2ofCvy5L2VLrQ7DVs0NXK31w8MQrW6U1GpjzU1j+it7FOJHZMxZKGg7wDdWI06aWmCgFeiD1H+bA==
